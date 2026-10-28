@@ -11,5 +11,3 @@ Repositorio con las prácticas y proyectos desarrollados durante la asignatura *
 | Práctica | Descripción | Enlace |
 |----------|-------------|--------|
 | **Práctica 04** | Reto de Accidentes Bus-Moto y Despacho de Ambulancias en Cuenca (SUMO + TraCI) | [Ver carpeta](./Practica_04_Reto_Ambulancias/) |
-
-## Estructura
