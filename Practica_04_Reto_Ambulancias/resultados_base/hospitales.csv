@@ -1,0 +1,8 @@
+hospital,tipo,stock_inicial,stock_final,despachos,retornos,rechazos,tiempo_ocupado,utilizacion
+VCM,público,3,0,3,0,3,2040,6.30%
+IESS_JCA,público,1,0,1,0,1,796,7.37%
+MILITAR,público,1,0,1,0,0,730,6.76%
+MUNI_PAT,público,3,4,5,6,2,4681,14.45%
+MUNI_VALLE,público,2,0,2,0,2,974,4.51%
+MONTE_SINAI,privado,0,4,4,8,3,2782,0.00%
+DEL_RIO,privado,0,1,0,1,4,0,0.00%
