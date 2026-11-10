@@ -1,0 +1,17 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+A transmission power of 23 dBm  will be used.
+Starting simulation... 
+Sumo: wait for socket: 1s
+Run terminated...
+Average PRR: 0.290984
+Average latency (ms): 0.382604
+Average latency veh 1 (ms): 0
+Average latency veh 2 (ms): 0
+Average latency veh 3 (ms): 0
+Average latency veh 4 (ms): 0
+RX packet count: 98
+RX packet count (from PRR Supervisor): 98
+TX packet count (from PRR Supervisor): 663
+Average number of vehicle within the 150 m baseline: 1.19247
+malloc_consolidate(): unaligned fastbin chunk detected

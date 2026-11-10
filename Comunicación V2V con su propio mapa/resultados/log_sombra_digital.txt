@@ -1,0 +1,249 @@
+=====================================================
+    RECONSTRUCCIÓN DE SOMBRA DIGITAL - TELEMETRÍA    
+=====================================================
+
+[SISTEMA] La simulación comenzará en 4 segundos...
+
+Iniciando reproducción fluida de veh6...
+
+[  0.58s] CAM | Vel:   4.9 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 0.31m | ΔVel: 0.69m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+          └─ [VISUAL] El vehículo cambia a color DETENIDO/LENTO
+          └─ [FOTO] Captura: Inicio del recorrido
+[  0.88s] CAM | Vel:   7.3 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 0.52m | ΔVel: 0.67m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+          └─ [VISUAL] El vehículo cambia a color MODERADO
+[  1.18s] CAM | Vel:   9.4 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 0.70m | ΔVel: 0.57m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  1.48s] CAM | Vel:  11.6 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 0.87m | ΔVel: 0.60m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  1.78s] CAM | Vel:  13.7 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 1.06m | ΔVel: 0.60m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  2.08s] CAM | Vel:  15.8 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 1.23m | ΔVel: 0.58m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  2.38s] CAM | Vel:  17.9 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 1.41m | ΔVel: 0.57m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  2.68s] CAM | Vel:  20.0 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 1.59m | ΔVel: 0.60m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+          └─ [VISUAL] El vehículo cambia a color RÁPIDO
+[  2.98s] CAM | Vel:  22.1 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 1.76m | ΔVel: 0.59m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  3.28s] CAM | Vel:  24.1 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 1.93m | ΔVel: 0.54m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  3.58s] CAM | Vel:  26.1 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 2.09m | ΔVel: 0.57m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+          └─ [FOTO] Captura: Vehículo en velocidad máxima
+[  3.88s] CAM | Vel:  28.3 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 2.28m | ΔVel: 0.59m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  4.18s] CAM | Vel:  28.1 km/h | Rumbo: 101.6°
+          └─ ΔT:  300ms | Dist: 2.41m | ΔVel: 0.04m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  4.38s] CAM | Vel:  24.9 km/h | Rumbo: 101.6°
+          └─ ΔT:  200ms | Dist: 1.47m | ΔVel: 0.90m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+          └─ [FOTO] Captura: Frenada
+[  4.58s] CAM | Vel:  21.6 km/h | Rumbo: 101.6°
+          └─ ΔT:  200ms | Dist: 1.28m | ΔVel: 0.90m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[  4.78s] CAM | Vel:  21.1 km/h | Rumbo: 103.3°
+          └─ ΔT:  200ms | Dist: 1.17m | ΔVel: 0.15m/s | ΔRumbo:  1.7°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  4.98s] CAM | Vel:  21.1 km/h | Rumbo: 105.2°
+          └─ ΔT:  200ms | Dist: 1.18m | ΔVel: 0.01m/s | ΔRumbo:  1.9°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  5.18s] CAM | Vel:  21.1 km/h | Rumbo: 111.3°
+          └─ ΔT:  200ms | Dist: 1.15m | ΔVel: 0.01m/s | ΔRumbo:  6.1°
+          └─ Disparador ETSI: RUMBO > 4°
+          └─ [FOTO] Captura: Vehículo girando
+[  5.38s] CAM | Vel:  21.1 km/h | Rumbo: 119.0°
+          └─ ΔT:  200ms | Dist: 1.17m | ΔVel: 0.01m/s | ΔRumbo:  7.7°
+          └─ Disparador ETSI: RUMBO > 4°
+[  5.48s] CAM | Vel:  21.1 km/h | Rumbo: 125.6°
+          └─ ΔT:  100ms | Dist: 0.58m | ΔVel: 0.01m/s | ΔRumbo:  6.6°
+          └─ Disparador ETSI: RUMBO > 4°
+[  5.58s] CAM | Vel:  21.1 km/h | Rumbo: 131.8°
+          └─ ΔT:  100ms | Dist: 0.58m | ΔVel: 0.00m/s | ΔRumbo:  6.2°
+          └─ Disparador ETSI: RUMBO > 4°
+[  5.68s] CAM | Vel:  21.1 km/h | Rumbo: 138.0°
+          └─ ΔT:  100ms | Dist: 0.59m | ΔVel: 0.01m/s | ΔRumbo:  6.2°
+          └─ Disparador ETSI: RUMBO > 4°
+[  5.78s] CAM | Vel:  21.1 km/h | Rumbo: 145.7°
+          └─ ΔT:  100ms | Dist: 0.58m | ΔVel: 0.00m/s | ΔRumbo:  7.7°
+          └─ Disparador ETSI: RUMBO > 4°
+[  5.88s] CAM | Vel:  21.1 km/h | Rumbo: 154.3°
+          └─ ΔT:  100ms | Dist: 0.59m | ΔVel: 0.00m/s | ΔRumbo:  8.6°
+          └─ Disparador ETSI: RUMBO > 4°
+[  5.98s] CAM | Vel:  21.1 km/h | Rumbo: 160.5°
+          └─ ΔT:  100ms | Dist: 0.58m | ΔVel: 0.01m/s | ΔRumbo:  6.2°
+          └─ Disparador ETSI: RUMBO > 4°
+[  6.08s] CAM | Vel:  21.1 km/h | Rumbo: 166.6°
+          └─ ΔT:  100ms | Dist: 0.59m | ΔVel: 0.01m/s | ΔRumbo:  6.1°
+          └─ Disparador ETSI: RUMBO > 4°
+[  6.18s] CAM | Vel:  21.4 km/h | Rumbo: 173.0°
+          └─ ΔT:  100ms | Dist: 0.59m | ΔVel: 0.08m/s | ΔRumbo:  6.4°
+          └─ Disparador ETSI: RUMBO > 4°
+[  6.28s] CAM | Vel:  22.1 km/h | Rumbo: 178.1°
+          └─ ΔT:  100ms | Dist: 0.61m | ΔVel: 0.20m/s | ΔRumbo:  5.1°
+          └─ Disparador ETSI: RUMBO > 4°
+[  6.38s] CAM | Vel:  22.9 km/h | Rumbo: 182.1°
+          └─ ΔT:  100ms | Dist: 0.62m | ΔVel: 0.21m/s | ΔRumbo:  4.0°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  6.48s] CAM | Vel:  23.6 km/h | Rumbo: 186.1°
+          └─ ΔT:  100ms | Dist: 0.65m | ΔVel: 0.20m/s | ΔRumbo:  4.0°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  6.58s] CAM | Vel:  24.3 km/h | Rumbo: 188.9°
+          └─ ΔT:  100ms | Dist: 0.67m | ΔVel: 0.20m/s | ΔRumbo:  2.8°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  6.68s] CAM | Vel:  25.1 km/h | Rumbo: 190.1°
+          └─ ΔT:  100ms | Dist: 0.69m | ΔVel: 0.21m/s | ΔRumbo:  1.2°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  6.78s] CAM | Vel:  25.8 km/h | Rumbo: 191.2°
+          └─ ΔT:  100ms | Dist: 0.70m | ΔVel: 0.19m/s | ΔRumbo:  1.1°
+          └─ Disparador ETSI: TIEMPO (1s)
+[  7.38s] CAM | Vel:  27.2 km/h | Rumbo: 192.6°
+          └─ ΔT:  600ms | Dist: 4.51m | ΔVel: 0.40m/s | ΔRumbo:  1.4°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[  7.98s] CAM | Vel:  27.2 km/h | Rumbo: 192.6°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[  8.58s] CAM | Vel:  27.2 km/h | Rumbo: 192.6°
+          └─ ΔT:  600ms | Dist: 4.54m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[  9.18s] CAM | Vel:  27.2 km/h | Rumbo: 192.6°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[  9.78s] CAM | Vel:  27.2 km/h | Rumbo: 192.6°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 10.38s] CAM | Vel:  27.2 km/h | Rumbo: 192.6°
+          └─ ΔT:  600ms | Dist: 4.54m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 10.98s] CAM | Vel:  27.2 km/h | Rumbo: 192.5°
+          └─ ΔT:  600ms | Dist: 4.54m | ΔVel: 0.00m/s | ΔRumbo:  0.1°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 11.58s] CAM | Vel:  27.2 km/h | Rumbo: 191.6°
+          └─ ΔT:  600ms | Dist: 4.55m | ΔVel: 0.01m/s | ΔRumbo:  0.9°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 12.18s] CAM | Vel:  27.2 km/h | Rumbo: 191.6°
+          └─ ΔT:  600ms | Dist: 4.56m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 12.78s] CAM | Vel:  27.2 km/h | Rumbo: 191.6°
+          └─ ΔT:  600ms | Dist: 4.55m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 13.38s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.4°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 13.98s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 14.58s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 15.18s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 15.78s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.54m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 16.38s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 16.98s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 17.58s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 18.18s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 18.78s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 19.38s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 19.98s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 20.58s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.54m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 21.18s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 21.78s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 22.38s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 22.98s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 23.58s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 24.18s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.00m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 24.78s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 25.38s] CAM | Vel:  27.2 km/h | Rumbo: 191.2°
+          └─ ΔT:  600ms | Dist: 4.53m | ΔVel: 0.01m/s | ΔRumbo:  0.0°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 25.98s] CAM | Vel:  24.6 km/h | Rumbo: 191.9°
+          └─ ΔT:  600ms | Dist: 4.48m | ΔVel: 0.74m/s | ΔRumbo:  0.7°
+          └─ Disparador ETSI: POSICIÓN > 4m
+[ 26.18s] CAM | Vel:  21.3 km/h | Rumbo: 192.0°
+          └─ ΔT:  200ms | Dist: 1.27m | ΔVel: 0.90m/s | ΔRumbo:  0.1°
+          └─ Disparador ETSI: VELOCIDAD > 0.5 m/s
+[ 26.38s] CAM | Vel:  20.6 km/h | Rumbo: 193.7°
+          └─ ΔT:  200ms | Dist: 1.15m | ΔVel: 0.19m/s | ΔRumbo:  1.7°
+          └─ Disparador ETSI: TIEMPO (1s)
+[ 26.58s] CAM | Vel:  20.6 km/h | Rumbo: 195.9°
+          └─ ΔT:  200ms | Dist: 1.15m | ΔVel: 0.00m/s | ΔRumbo:  2.2°
+          └─ Disparador ETSI: TIEMPO (1s)
+          └─ [FOTO] Captura: Fin del recorrido
+          └─ [FOTO] Captura: Detenido (Forzada)
+[ 26.78s] CAM | Vel:  20.7 km/h | Rumbo: 202.7°
+          └─ ΔT:  200ms | Dist: 1.12m | ΔVel: 0.01m/s | ΔRumbo:  6.8°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 26.88s] CAM | Vel:  20.6 km/h | Rumbo: 206.8°
+          └─ ΔT:  100ms | Dist: 0.57m | ΔVel: 0.01m/s | ΔRumbo:  4.1°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 26.98s] CAM | Vel:  20.7 km/h | Rumbo: 211.6°
+          └─ ΔT:  100ms | Dist: 0.56m | ΔVel: 0.01m/s | ΔRumbo:  4.8°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 27.08s] CAM | Vel:  20.6 km/h | Rumbo: 218.9°
+          └─ ΔT:  100ms | Dist: 0.57m | ΔVel: 0.01m/s | ΔRumbo:  7.3°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 27.18s] CAM | Vel:  20.7 km/h | Rumbo: 225.5°
+          └─ ΔT:  100ms | Dist: 0.57m | ΔVel: 0.01m/s | ΔRumbo:  6.6°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 27.28s] CAM | Vel:  20.6 km/h | Rumbo: 232.1°
+          └─ ΔT:  100ms | Dist: 0.57m | ΔVel: 0.01m/s | ΔRumbo:  6.6°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 27.38s] CAM | Vel:  20.6 km/h | Rumbo: 240.2°
+          └─ ΔT:  100ms | Dist: 0.57m | ΔVel: 0.00m/s | ΔRumbo:  8.1°
+          └─ Disparador ETSI: RUMBO > 4°
+[ 27.48s] CAM | Vel:  20.6 km/h | Rumbo: 248.9°
+          └─ ΔT:  100ms | Dist: 0.57m | ΔVel: 0.00m/s | ΔRumbo:  8.7°
+          └─ Disparador ETSI: RUMBO > 4°
+
+Cerrando simulación...
+¡Sombra digital de veh6 finalizada con éxito!
+Log guardado en: resultados/log_sombra_digital.txt
