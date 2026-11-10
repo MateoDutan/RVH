@@ -1,6 +1,6 @@
 # Reto V2V/CAM - Sombra Digital y Análisis ETSI en Cuenca (SUMO + ns-3)
 
-Solución al taller de la Práctica 05 de la asignatura **Redes Vehiculares y Heterogéneas** de la Universidad de Cuenca.
+Solución al taller Comunicación V2V con su propio mapa: el CAM de ETSI en VaN3Twin de la asignatura **Redes Vehiculares y Heterogéneas** de la Universidad de Cuenca.
 
 ## Descripción
 Reconstrucción de tráfico V2V a partir de capturas de red (`.pcap`). El proyecto simula la pila ETSI ITS-G5 (mensajes CAM), extrae datos cinemáticos usando Wireshark/tshark, y genera una Sombra Digital (Digital Shadow) en SUMO. Para garantizar la fluidez del movimiento, se implementa interpolación lineal en Python a través de la interfaz TraCI, validando empíricamente las reglas de generación dinámica del CAM (1 a 10 Hz).
